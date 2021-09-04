@@ -1,0 +1,40 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+}
+
+tr {
+  border: 1px solid white;
+}
+
+th,
+td {
+  padding: 15px 25px;
+}
+
+.btn-link {
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  margin: 40px auto 0 auto;
+}
+
+.btn-link button {
+  width: 100%;
+  height: 40px;
+}
