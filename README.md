@@ -10,3 +10,4 @@ Implementasi CRUD menggunakan PHP, MySQL &amp; Bootstrap 5
 # Kontributor
 
 - Rio Purnomo (41037006192001)
+- Riki Ramdan (41037006191067)
