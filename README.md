@@ -18,3 +18,5 @@ Implementasi CRUD menggunakan PHP, MySQL &amp; Bootstrap 5
 # Screenshots 
 
 ![WhatsApp Image 2021-09-05 at 17 11 07 (1)](https://user-images.githubusercontent.com/90131734/132123635-b861d651-6af4-419c-a2b7-609363e7faf1.jpeg)
+
+![WhatsApp Image 2021-09-05 at 17 36 59](https://user-images.githubusercontent.com/90131734/132125390-f1a2e597-27ef-4bfc-89df-a06b152840d0.jpeg)
