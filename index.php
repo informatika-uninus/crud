@@ -10,9 +10,9 @@
                 VALUES('$id', '$fullname', '$semester')";
 
         if (!($conn->query($sql) === TRUE)) {
-            header("Location: http://localhost:80/php-crud-app/index.php?msg=$conn->error");
+            header("Location: $site/index.php?msg=$conn->error");
         } else {
-            header("Location: http://localhost:80/php-crud-app/index.php?msg=Successfully Inserted");
+            header("Location: $site/index.php?msg=Successfully Inserted");
         }
    }
 
