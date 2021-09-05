@@ -1,8 +1,9 @@
 <?php
+    $site = "http://localhost";
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $database = "php_crud";
+    $database = "crud";
 
     $conn = new mysqli($servername, $username, $password, $database);
 
