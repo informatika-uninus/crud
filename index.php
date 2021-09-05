@@ -57,7 +57,7 @@
             <button type="submit" name="save" class="btn btn-warning px-5">Submit</button>
         </form>
 
-        <a class="btn-link" href="/php-crud-app/display.php">
+        <a class="btn-link" href="<?php echo $site; ?>/display.php">
             <button type="button" class="btn btn-danger">View All The Student</button>
         </a>
     </div>

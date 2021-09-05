@@ -50,7 +50,7 @@
             ?>        
         </table>
 
-        <a class="btn-link" href="/php-crud-app/index.php">
+        <a class="btn-link" href="<?php echo $site; ?>/index.php">
             <button type="button" class="btn btn-danger">Insert New Student</button>
         </a>
     </div>
